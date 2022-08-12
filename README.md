@@ -1,2 +1,2 @@
 # MVC | PHP
-Basic pattern schema for web prototyping 
+Elementary pattern schema for web prototyping
